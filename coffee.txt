@@ -1,0 +1,10 @@
+light
+3.0
+Starbucks
+34.0
+light coffee
+4.0
+One
+12.0
+Starbks
+10
